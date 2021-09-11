@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ouolus!
+- 👀 I’m interested in finding unreleased stuff on github.
+- 🌱 I’m currently learning C++
+- 💞️ I’m not looking to collaborate.
+- 📫 How to reach me: discord: velatre#0001
